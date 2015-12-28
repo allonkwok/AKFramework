@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.allonkwok.air.framework.Framework"/>
+    <classEntry path="com.allonkwok.air.framework.util.FileUtil"/>
+    <classEntry path="com.allonkwok.air.framework.util.TextureUtil"/>
+    <classEntry path="com.allonkwok.air.framework.view.ViewBase"/>
+    <classEntry path="com.allonkwok.air.framework.view.IView"/>
+    <classEntry path="com.allonkwok.air.framework.model.IEntity"/>
+    <classEntry path="com.allonkwok.air.framework.controller.IController"/>
+    <classEntry path="com.allonkwok.air.framework.controller.ControllerBase"/>
+    <classEntry path="com.allonkwok.air.framework.data.DataAccess"/>
+    <classEntry path="com.allonkwok.air.framework.data.IData"/>
+    <classEntry path="com.allonkwok.air.framework.data.DataBase"/>
+    <classEntry path="com.allonkwok.air.framework.model.EntityBase"/>
+    <classEntry path="com.allonkwok.air.framework.util.UiUtil"/>
+    <classEntry path="com.allonkwok.air.framework.model.ModelBase"/>
+    <classEntry path="com.allonkwok.air.framework.util.TouchUtil"/>
+    <classEntry path="com.allonkwok.air.framework.util.debug"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
